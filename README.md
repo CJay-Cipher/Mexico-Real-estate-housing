@@ -1,5 +1,7 @@
 # Properati Data Analysis Project
 
+![Mexico City](images/mexico_city.gif)
+
 This project focuses on analyzing a dataset from the real estate website Properati.com, which includes information on 21,000 properties for sale in Mexico. The goal is to determine whether property size or location has a stronger influence on sale prices.
 
 ## Project Overview
