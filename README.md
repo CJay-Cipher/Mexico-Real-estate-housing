@@ -1,6 +1,8 @@
-# Properati Data Analysis Project
+[image_0]: images/mexico_city.gif
 
-![Mexico City](images/mexico_city.gif)
+![Mexico Logo][image_0]
+
+# Properati Data Analysis Project
 
 This project focuses on analyzing a dataset from the real estate website Properati.com, which includes information on 21,000 properties for sale in Mexico. The goal is to determine whether property size or location has a stronger influence on sale prices.
 
@@ -8,20 +10,9 @@ This project focuses on analyzing a dataset from the real estate website Propera
 
 The project consists of two main notebooks: Data_Cleaning.ipynb and Exploratory Data Analysis.ipynb. These notebooks cover different stages of the data analysis process.
 
-1. **Data_Cleaning.ipynb**: This notebook focuses on data cleaning and preparation. It includes the following steps:
+1. **Data_Cleaning.ipynb**: This notebook focuses on data cleaning and preparation. It includes the following steps: - Importing the dataset from CSV files. - Handling missing values and outliers. - Standardizing data formats. - Removing duplicates. - Creating new features or transforming existing ones if necessary.
 
-   - Importing the dataset from CSV files.
-   - Handling missing values and outliers.
-   - Standardizing data formats.
-   - Removing duplicates.
-   - Creating new features or transforming existing ones if necessary.
-
-2. **Exploratory Data Analysis.ipynb**: This notebook focuses on exploring and analyzing the cleaned dataset. It includes the following steps:
-
-   - Visualizing the distributions of variables.
-   - Investigating relationships between property size, location, and sale prices through various plots.
-   - Calculating summary statistics.
-   - Conducting correlation analysis.
+2. **Exploratory Data Analysis.ipynb**: This notebook focuses on exploring and analyzing the cleaned dataset. It includes the following steps: - Visualizing the distributions of variables. - Investigating relationships between property size, location, and sale prices through various plots. - Calculating summary statistics. - Conducting correlation analysis.
 
 ## File Structure
 
